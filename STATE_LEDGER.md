@@ -132,8 +132,8 @@ next_action: Inspect the account's repos and open PRs -> controller
 ```
 id: C1
 venture: career
-source: applications, internships, Devpost entries, OSS contributions, employer correspondence
-access: none
+source: P0 Career Execution OS (Claude Project), chat 00 canonical state block; applications, Devpost entries, OSS contributions, employer correspondence
+access: paste
 claim: Technical proof and applications exist; deadlines and evaluation status unknown.
 tag: REPORTED
 gate: none

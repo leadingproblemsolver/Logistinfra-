@@ -59,6 +59,11 @@ Existing assets, REPORTED: GitHub account `leadingproblemsolver`, including `Fol
 
 ## Career (employment, internships, competitions)
 Existing assets, REPORTED: technical proof, internships, applications, OSS contributions, Devpost.
+
+Execution surface: the Claude Project "P0 — Career Execution OS" (chats 00–07, 99). Production OS only decides whether career is the next transition; P0 chat 00 ranks opportunities and P0 owns pipelines A–D, scoring, and evidence states E0–E6. Do not duplicate that logic here or in the GPT. Hand off with the opportunity and its latest receipt.
+- Crosswalk: Phase 2 means E4 or higher (external evaluation, permissioned work, offer or payment). E2 (submission) is exposure, never a gate. E3 (reply or rejection) is a signal, not Phase 2.
+- Proof building: P0 rule 8 governs. Priority class 3 applies to career only when an external evaluator has exposed the missing proof.
+- Pipeline C (Qatar direct work) is PROMISING, not proven to produce employment. Pipeline D is EXPERIMENTAL and runs only in P0 chat 99 under its attempt budget.
 - −1 evidence: the opportunity is live, you meet eligibility, the deadline and the evaluator's requirements are confirmed from the source.
 - 0 evidence: the closest existing proof, with the smallest gap repaired and mapped to the stated requirements.
 - 1 evidence: a defensible artifact, demo or contribution whose behavior an evaluator can verify.
